@@ -1,5 +1,4 @@
-# Anaconda——经验及问题总结
-## 创建虚拟环境，并让jupyter notebook在该环境下运行
+# 创建虚拟环境，并让jupyter notebook在该环境下运行
 1. 创建虚拟环境（Ubuntu）
 ```zsh
   conda create -n project_name

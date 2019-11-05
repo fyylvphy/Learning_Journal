@@ -4,8 +4,5 @@
 本页为内容目录。
 
 1. Anaconda
-   1. 
-   2. 
-   
-2. Another
-   1. try
+   1. 创建虚拟环境，并让jupyter notebook在该环境下运行
+

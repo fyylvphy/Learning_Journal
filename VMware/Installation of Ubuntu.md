@@ -1,4 +1,4 @@
-# 1. 在VMware上安装Ubuntu（以19.11.12安装为例）
+## 1. 在VMware上安装Ubuntu（以19.11.12安装为例）
 
 直接搬运我在知乎上看到的[一篇文章](https://zhuanlan.zhihu.com/p/38797088)，很详细。
 
@@ -11,5 +11,19 @@
 /boot为启动盘，swap area类似于Windows里的虚拟内存，/ 为根目录。
 
 
-# 2. 安装VMware
+## 2. 安装VMware
 见这篇[文章](https://www.cnblogs.com/DA799422035/p/9058210.html)，不要看上面的知乎。
+
+## 3. 配置镜像源
+[教程](https://blog.csdn.net/weixin_41762173/article/details/79480832)
+
+[清华大学镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
+
+## 4. 更换shell为zsh
+[教程](https://blog.csdn.net/weixin_38111667/article/details/86157841)
+
+## 5. 安装中文输入法
+'''
+  sudo apt-get install ibus-pinyin
+'''
+重启后在设置里弄就行。[教程](https://www.cnblogs.com/asmer-stone/p/9069866.html)

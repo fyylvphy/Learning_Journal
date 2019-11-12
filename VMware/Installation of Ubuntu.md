@@ -8,3 +8,4 @@
 
 ![My_partition](https://github.com/fyylvphy/Learning_Journal/raw/master/VMware/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%88%86%E5%8C%BA.JPG)
 
+/boot为启动盘，swap area类似于Windows里的虚拟内存，/ 为根目录。

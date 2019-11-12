@@ -1,4 +1,5 @@
 # 创建虚拟环境，并让jupyter notebook在该环境下运行
+注：[zsh：command not find:conda 的详细解决办法](https://www.jianshu.com/p/13f5d20e61f8)
 1. 创建虚拟环境（Ubuntu）
 ```zsh
   conda create -n project_name

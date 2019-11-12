@@ -6,3 +6,6 @@
 1. Anaconda
    1. 创建虚拟环境，并让jupyter notebook在该环境下运行
 
+2. VMware虚拟机
+   1. 安装Ubuntu
+   2. 安装VMware Tools

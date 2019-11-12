@@ -11,6 +11,8 @@
   安装支持虚拟环境的插件nb_conda:
   conda install nb_conda
   conda install -n project_name ipykernel
+  一般我们还会安装pip：
+  sudo apt install python3-pip
 ```
 2. 让jupyter notebook在该环境下运行
 

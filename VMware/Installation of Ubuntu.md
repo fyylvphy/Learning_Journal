@@ -23,7 +23,7 @@
 [教程](https://blog.csdn.net/weixin_38111667/article/details/86157841)
 
 ## 5. 安装中文输入法
-'''
+```
   sudo apt-get install ibus-pinyin
-'''
+```
 重启后在设置里弄就行。[教程](https://www.cnblogs.com/asmer-stone/p/9069866.html)

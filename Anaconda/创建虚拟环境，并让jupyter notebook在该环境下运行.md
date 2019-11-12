@@ -13,6 +13,9 @@
   conda install -n project_name ipykernel
   一般我们还会安装pip：
   sudo apt install python3-pip
+  并更换为国内源（清华源）：
+  pip install pip -U    # 升级pip
+  pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 2. 让jupyter notebook在该环境下运行
 

@@ -4,6 +4,10 @@
 
 安装时我设置的处理器数量为2，每个处理器的核数为2. （对于20.02.09，我处理器配置了2个，每个核数为4，内存为8G,磁盘空间40G）
 
+要注意Unbuntu的镜像文件下载后不要解压，我之前下载了Ubuntu-18.04.3，位置在D:\fyylv\03tools
+
+每次安装新虚拟机时要把Ubuntu镜像复制到虚拟机文件夹中（只是为了方便管理），虚拟机文件夹的位置在C:\Users\Lenovo\Documents\Virtual Machines
+
 磁盘分区如下:
 
 ![My_partition](https://github.com/fyylvphy/Learning_Journal/raw/master/VMware/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%88%86%E5%8C%BA.JPG)

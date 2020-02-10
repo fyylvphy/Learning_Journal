@@ -5,9 +5,11 @@
   conda create -n project_name
   进入虚拟环境：
   source activate project_name
-  （退出环境）
+  退出环境：
   source deactivate project_name
   如果不写project_name,则默认打开（退出）base环境
+  删除环境：
+  conda remove -n project_name --all
   安装支持虚拟环境的插件nb_conda:
   conda install nb_conda
   conda install -n project_name ipykernel

@@ -2,7 +2,10 @@
 注：[zsh：command not find:conda 的详细解决办法](https://www.jianshu.com/p/13f5d20e61f8)
 1. 创建虚拟环境（Ubuntu）
 ```zsh
+  创建环境：
   conda create -n project_name
+  查看都有哪些环境：
+  conda info --env
   进入虚拟环境：
   source activate project_name
   退出环境：

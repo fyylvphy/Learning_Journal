@@ -15,7 +15,7 @@
 /boot为启动盘，swap area类似于Windows里的虚拟内存，/ 为根目录。
 
 
-## 2. 安装VMware
+## 2. 安装VMware Tools
 见这篇[文章](https://www.cnblogs.com/DA799422035/p/9058210.html)，不要看上面的知乎。
 
 ## 3. 配置镜像源
